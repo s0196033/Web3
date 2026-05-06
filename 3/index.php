@@ -78,9 +78,9 @@ if (!empty($errors)) {
 }
 
 // Подключение к базе данных
-$user = 'u68775'; // Заменить на ваш логин
-$pass = '7631071'; // Заменить на ваш пароль
-$dbname = 'u68775'; // Заменить на ваш логин (имя БД)
+$user = 'u82392';
+$pass = '1685352';
+$dbname = 'u82392';
 
 try {
     $db = new PDO("mysql:host=localhost;dbname=$dbname", $user, $pass, [
