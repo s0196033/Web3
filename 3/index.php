@@ -130,3 +130,4 @@ try {
     print('Ошибка: ' . $e->getMessage());
     exit();
 }
+?>
